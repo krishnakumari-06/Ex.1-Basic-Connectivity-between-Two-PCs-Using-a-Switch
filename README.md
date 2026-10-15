@@ -1,8 +1,6 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
 # Date : 15.10.2026
-# Name: krishna kumari E
-# Reg : 212224060127
-
+ 
 # Objective
 
           “To configure and test basic LAN connectivity between two PCs using a switch.”
