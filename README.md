@@ -1,5 +1,7 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 15.10.2026
+# Name: krishna kumari E
+# Reg : 212224060127
 
 # Objective
 
@@ -11,9 +13,7 @@ ________________________________________
 •	Optional: Wireless Router, Server, Cloud
 ________________________________________
 # Network Topology Diagram
-
-Insert the network topology from Packet Tracer (Screenshot or drawing)
-
+ <img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/e76cf6a6-8c2c-4acf-bd23-d6cc26b37b4c" />
 ________________________________________
 # IP Addressing Table (if applicable)
 Device Name	Interface	IP Address	Subnet Mask
@@ -39,9 +39,15 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/ff7aa8e6-9f54-4b2c-956d-701d8371570e" />
 
-Insert screenshots showing ping success, configuration, or simulation results.
-________________________________________
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1fb94d28-838d-42b3-82a6-ed3fe82ff9d2" />
+
+
+___<img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/e21ccb4f-d754-4b7e-b30d-4e0c3948a644" />
+<img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/16b57980-1ca1-4442-ae88-ac7908830269" />
+
+_____________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
 	
