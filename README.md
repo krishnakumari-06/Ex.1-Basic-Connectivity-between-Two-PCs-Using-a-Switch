@@ -13,8 +13,11 @@ ________________________________________
 •	Optional: Wireless Router, Server, Cloud
 ________________________________________
 # Network Topology Diagram
+
  <img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/e76cf6a6-8c2c-4acf-bd23-d6cc26b37b4c" />
+ 
 ________________________________________
+
 # IP Addressing Table (if applicable)
 Device Name	Interface	IP Address	Subnet Mask
 PC0	NIC	192.168.1.2	255.255.255.0
